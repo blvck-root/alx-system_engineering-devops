@@ -1,4 +1,4 @@
-This project contains scripts for some of the commands for basic shell navigation and file manipulation.
+This project contains scripts for some of the commands for shell navigation, file manipulation, permissions, I/O, and expansions.
 
 ## Requirements
 - Allowed editors: `vi`, `vim`, `emacs`
