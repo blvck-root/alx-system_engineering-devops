@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#This script displays the contents of a directory line by line
+
+LIST="$(ls)"
+for i in $LIST; do
+    echo "$i" | cut -d "-" -f 2
+done
