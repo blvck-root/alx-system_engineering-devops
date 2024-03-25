@@ -17,4 +17,5 @@
 
 Host *
     IdentityFile ~/.ssh/school
+    IdentityFile ~/.ssh/authorized_keys
     PasswordAuthentication no
