@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# start apache2 to run on the container to fix curl error message
+sudo service apache2 start
